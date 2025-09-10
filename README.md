@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Anji Reddy
-
+- **Location:** Maryville, MO, USA - 64468
 ## 🚀 About Me
 - 💻 I’m a software developer passionate about open-source and AI technologies.  
 - 🌱 Currently learning **Block Chain(hyperledger)**.  
