@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there 👋, I'm Anji Reddy
 
-<!--
-**anjireddy-github/anjireddy-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 💻 I’m a software developer passionate about open-source and AI technologies.  
+- 🌱 Currently learning **Block Chain(hyperledger)**.  
+- 👯 Looking to collaborate on exciting **open-source projects**.  
+- ⚡ Fun fact: I love coffee ☕ and building side projects on weekends.  
 
-Here are some ideas to get you started:
+## 📌 Current Work
+- Building a **Go application on HyperLedger** for profile management.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Interests
+- Open source software  
+- Machine learning & AI  
+- Web3 & blockchain tech  
+
+## 📫 Connect with me
+- ✉️ Email: modugulaanjireddy18@gmail.com
+
