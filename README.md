@@ -11,9 +11,9 @@
 
 ## 🎯 Interests
 - Open source software  
-- Machine learning & AI  
-- Web3 & blockchain tech  
+- Machine learning & AI
+- fintech
 
 ## 📫 Connect with me
-- ✉️ Email: modugulaanjireddy18@gmail.com
+- ✉️ Email: anjireddy5889@gmail.com
 
